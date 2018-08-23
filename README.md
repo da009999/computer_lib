@@ -1,4 +1,6 @@
 
+* Computer Networks: https://news.ycombinator.com/item?id=17824472
+
 * Understanding complex peer-to-peer papers:
   https://news.ycombinator.com/item?id=15883186
 
